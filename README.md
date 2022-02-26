@@ -1,4 +1,4 @@
-# Tutoriat-POO-2022 chair:
+# Tutoriat-POO-2022 :chair:
 Tutoriat de POO pentru studentii de anul I ai FMI UB 
 
 <p align="center">
