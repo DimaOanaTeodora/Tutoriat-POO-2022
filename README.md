@@ -5,7 +5,7 @@ Tutoriat de POO pentru studentii de anul I ai FMI UB
 <img src="https://user-images.githubusercontent.com/61749814/155836441-58878439-f0f7-4e06-958f-e77d265a3e80.jpg" width="350" height="400" />
 </p>
 
-:triangular_flag_on_post: [Link grup de facebook]()
+:triangular_flag_on_post: [Ne vedem pe Teams](https://teams.microsoft.com/l/channel/19%3a22Ok1VmJIxmzNeqzA64FfRKxWmWkKUnGh7NVZjTIPy81%40thread.tacv2/General?groupId=dabce7fe-8583-42af-b340-da55293f8769&tenantId=08a1a72f-fecd-4dae-8cec-471a2fb7c2f1)
 
 :warning: Materiale:
 
