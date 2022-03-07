@@ -9,19 +9,19 @@ Tutoriat de POO pentru studentii de anul I ai FMI UB
 
 :warning: Materiale:
 
-:large_orange_diamond: []()
+:large_orange_diamond: [Notiuni introductive](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Notiuni%20introductiive.pdf)
 
-:large_orange_diamond: []()
+:large_orange_diamond: [Supraincarcarea operatorilor](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Supraincarcarea%20operatorilor.pdf)
 
 :heavy_check_mark: Exercitii rezolvate:
 
-:large_blue_diamond: []()
+:large_blue_diamond: [Tutoriat 1]()
 
-:large_blue_diamond: []()
+:large_blue_diamond: [Tutoriat 2]()
 
 
-:radioactive: Exemple teme/proiecte:
+:radioactive: Diverse:
 
-:diamond_shape_with_a_dot_inside:	 []()
+:diamond_shape_with_a_dot_inside:	 [Despre tema 1]()
 
 :diamond_shape_with_a_dot_inside:	 []()
