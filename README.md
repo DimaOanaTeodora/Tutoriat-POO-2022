@@ -16,13 +16,13 @@ Tutoriat de POO pentru studentii de anul I ai FMI UB
 
 :heavy_check_mark: Exercitii rezolvate:
 
-:large_blue_diamond: [Tutoriat 1]()
+:large_blue_diamond: [Tutoriat 1](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/tree/main/Exercitii)
 
 :large_blue_diamond: [Tutoriat 2]()
 
 
 :radioactive: Diverse:
 
-:diamond_shape_with_a_dot_inside:	 [Despre tema 1]()
+:diamond_shape_with_a_dot_inside:	 [Despre tema 1](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/Tips%26tricks%20tema%201.md)
 
-:diamond_shape_with_a_dot_inside:	 []()
+:diamond_shape_with_a_dot_inside:	 [Exemplu headers](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/tree/main/Exemple/Headers)
