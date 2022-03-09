@@ -16,7 +16,7 @@ Tutoriat de POO pentru studentii de anul I ai FMI UB
 
 :heavy_check_mark: Exercitii rezolvate:
 
-:large_blue_diamond: [Tutoriat 1](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/tree/main/Exercitii)
+:large_blue_diamond: [Tutoriat 1](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T1.md)
 
 :large_blue_diamond: [Tutoriat 2]()
 
