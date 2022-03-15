@@ -14,6 +14,8 @@ Tutoriat de POO pentru studentii de anul I ai FMI UB
 
 :large_orange_diamond: [Supraincarcarea operatorilor](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Supraincarcarea%20operatorilor.pdf)
 
+:large_orange_diamond: [Mostenire si compunere](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Mostenire%20si%20compunere.pdf)
+
 :heavy_check_mark: Exercitii rezolvate:
 
 :large_blue_diamond: [Tutoriat 1](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T1.md)
