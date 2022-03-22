@@ -1,5 +1,5 @@
 # Tutoriat-POO-2022 :chair:
-Tutoriat de POO pentru studentii de anul I ai FMI UB 
+Tutoriat de POO pentru studenții de anul I ai FMI UB 
 
 
 :triangular_flag_on_post: [Ne vedem pe Teams](https://teams.microsoft.com/l/channel/19%3a22Ok1VmJIxmzNeqzA64FfRKxWmWkKUnGh7NVZjTIPy81%40thread.tacv2/General?groupId=dabce7fe-8583-42af-b340-da55293f8769&tenantId=08a1a72f-fecd-4dae-8cec-471a2fb7c2f1)
@@ -10,13 +10,15 @@ Tutoriat de POO pentru studentii de anul I ai FMI UB
 
 :warning: Materiale:
 
-:large_orange_diamond: [Notiuni introductive](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Notiuni%20introductiive.pdf)
+:large_orange_diamond: [Noțiuni introductive](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Notiuni%20introductiive.pdf)
 
-:large_orange_diamond: [Supraincarcarea operatorilor](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Supraincarcarea%20operatorilor.pdf)
+:large_orange_diamond: [Supraîncarcarea operatorilor](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Supraincarcarea%20operatorilor.pdf)
 
-:large_orange_diamond: [Mostenire si compunere](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Mostenire%20si%20compunere.pdf)
+:large_orange_diamond: [Moștenire și compunere](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Mostenire%20si%20compunere.pdf)
 
-:heavy_check_mark: Exercitii rezolvate:
+:large_orange_diamond: Const și static
+
+:heavy_check_mark: Exerciții rezolvate:
 
 :large_blue_diamond: [Tutoriat 1 - Noțiuni introductive](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T1.md)
 
