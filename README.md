@@ -8,7 +8,9 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 <img src="https://user-images.githubusercontent.com/61749814/155836441-58878439-f0f7-4e06-958f-e77d265a3e80.jpg" width="350" height="400" />
 </p>
 
-:warning: Materiale:
+### :warning: Materiale:
+
+<hr />
 
 :large_orange_diamond: [Noțiuni introductive](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Notiuni%20introductiive.pdf)
 
@@ -18,7 +20,9 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_orange_diamond: Const și static
 
-:heavy_check_mark: Exerciții rezolvate:
+### :heavy_check_mark: Exerciții rezolvate:
+
+<hr />
 
 :large_blue_diamond: [Tutoriat 1 - Noțiuni introductive](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T1.md)
 
@@ -26,7 +30,9 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_blue_diamond: Tutoriat 3 - moștenire și compunere && const și static
 
-:radioactive: Diverse:
+### :radioactive: Diverse:
+
+<hr />
 
 :diamond_shape_with_a_dot_inside:	 [Despre tema 1](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/Tips%26tricks%20tema%201.md)
 
