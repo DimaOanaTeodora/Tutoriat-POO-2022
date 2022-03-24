@@ -5,3 +5,7 @@
 
 ### Tutoriat 2
 - [Mostenire si compunere](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Mostenire%20si%20compunere.pdf)
+
+
+### Tutoriat 3
+- [Const si static](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Const%20si%20static.pdf)
