@@ -2,7 +2,7 @@
 
 ### Tutoriat 1
 
-- [Notiuni introductive]()
+- [Notiuni introductive](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T1.md)
 
 ### Tutoriat 2
 
