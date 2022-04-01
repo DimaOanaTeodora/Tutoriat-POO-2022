@@ -28,7 +28,7 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_blue_diamond: [Tutoriat 1 - Noțiuni introductive](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T1.md)
 
-:large_blue_diamond: Tutoriat 2 - nu s-a ținut
+:large_blue_diamond: Tutoriat 2 - nu s-a ținut(fără prezență)
 
 :large_blue_diamond: Tutoriat 3 - [moștenire și compunere](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T3%201.md) && [const și static](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T3%202.md)
 
