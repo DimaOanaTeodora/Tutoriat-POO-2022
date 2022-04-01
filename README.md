@@ -22,6 +22,10 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_orange_diamond: [Const și static](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Const%20si%20static.pdf)
 
+:large_orange_diamond: [Suprascriere si supraincarcare](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Suprascriere%20si%20supraincarcare.pdf)
+
+:large_orange_diamond: [Upcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Upcasting.pdf)
+
 ### :heavy_check_mark: Exerciții rezolvate:
 
 <hr />
