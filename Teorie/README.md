@@ -14,3 +14,8 @@
 
 - [Suprascriere si supraincarcare](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Suprascriere%20si%20supraincarcare.pdf)
 - [Upcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Upcasting.pdf)
+
+### Tutoriat 5
+
+- [Try - catch](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Try-catch.pdf)
+- [Virtual, diamant si downcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Virtual%2C%20diamant%20si%20downcasting.pdf)
