@@ -26,6 +26,10 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_orange_diamond: [Upcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Upcasting.pdf)
 
+:large_orange_diamond: [Try - catch](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Try-catch.pdf)
+
+:large_orange_diamond: [Virtual, diamant si downcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Virtual%2C%20diamant%20si%20downcasting.pdf)
+
 ### :heavy_check_mark: Exerciții rezolvate:
 
 <hr />
