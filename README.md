@@ -42,6 +42,8 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_blue_diamond: Tutoriat 4 - [supraincarcare, suprascriere si upcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T4.md) 
 
+:large_blue_diamond: Tutoriat 5 - [virtual, diamant si downcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T5.md)
+
 ### :radioactive: Diverse:
 
 <hr />
