@@ -46,6 +46,8 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 <hr />
 
-:diamond_shape_with_a_dot_inside:	 [Despre tema 1](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/Tips%26tricks%20tema%201.md)
+:diamond_shape_with_a_dot_inside:	[Despre tema 1](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/Tips%26tricks%20tema%201.md)
 
-:diamond_shape_with_a_dot_inside:	 [Exemplu headers](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/tree/main/Exemple/Headers)
+:diamond_shape_with_a_dot_inside:	[Exemplu headers](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/tree/main/Exemple/Headers)
+
+:diamond_shape_with_a_dot_inside: [Citirea din fisier folosind supraincarcarea operatorului >>](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exemple/ReadFromFile.md)
