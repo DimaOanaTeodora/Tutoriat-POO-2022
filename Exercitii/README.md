@@ -16,3 +16,7 @@
 ### Tutoriat 4
 
 - [supraincarcare, suprascriere si upcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T4.md)
+
+### Tutoriat 5
+
+- [virtual, diamant si downcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T5.md)
