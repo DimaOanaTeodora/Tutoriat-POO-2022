@@ -57,3 +57,5 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 :diamond_shape_with_a_dot_inside:	[Exemplu headers](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/tree/main/Exemple/Headers)
 
 :diamond_shape_with_a_dot_inside: [Citirea din fisier folosind supraincarcarea operatorului >>](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exemple/ReadFromFile.md)
+
+:diamond_shape_with_a_dot_inside: [Colocvii rezolvate din ultimii ani *multumiri speciale @DariaBroscoteanu*](https://github.com/dariabroscoteanu/OOP/tree/main/Lab%20Exams)
