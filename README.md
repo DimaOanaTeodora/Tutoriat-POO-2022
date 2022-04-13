@@ -30,6 +30,10 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_orange_diamond: [Virtual, diamant si downcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Virtual%2C%20diamant%20si%20downcasting.pdf)
 
+:large_orange_diamond: [Template](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Template.pdf)
+
+:large_orange_diamond: [Singleton](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Singleton.pdf)
+
 ### :heavy_check_mark: Exerciții rezolvate:
 
 <hr />
