@@ -10,7 +10,7 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 <img src="https://user-images.githubusercontent.com/61749814/155836441-58878439-f0f7-4e06-958f-e77d265a3e80.jpg" width="350" height="400" />
 </p>
 
-### :warning: Materiale:
+### :warning: Materiale
 
 <hr />
 
@@ -38,7 +38,7 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_orange_diamond: [Singleton](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Singleton.pdf)
 
-### :heavy_check_mark: Exerciții rezolvate:
+### :heavy_check_mark: Exerciții rezolvate
 
 <hr />
 
@@ -52,7 +52,7 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_blue_diamond: Tutoriat 5 - [virtual, diamant si downcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T5.md)
 
-### :radioactive: Diverse:
+### :radioactive: Diverse
 
 <hr />
 
