@@ -23,6 +23,6 @@
 ### Tutoriat 6
 
 - [Polimorfism](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Polimorfism.pdf)
-- [Abstractizare]()
+- [Abstractizare](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Abstractizare.pdf)
 - [Template](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Template.pdf)
 - [Singleton](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Singleton.pdf)
