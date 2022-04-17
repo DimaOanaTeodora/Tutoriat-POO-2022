@@ -19,3 +19,10 @@
 
 - [Try - catch](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Try-catch.pdf)
 - [Virtual, diamant si downcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Virtual%2C%20diamant%20si%20downcasting.pdf)
+
+### Tutoriat 6
+
+- [Polimorfism](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Polimorfism.pdf)
+- [Abstractizare]()
+- [Template](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Template.pdf)
+- [Singleton](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Singleton.pdf)
