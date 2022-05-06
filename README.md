@@ -54,6 +54,8 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_blue_diamond: Tutoriat 6 - nu s-a ținut(fără prezență)
 
+:large_blue_diamond: Tutoriat 7 - [polimorfism și abstractizare](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T7.md)
+
 ### :radioactive: Diverse
 
 <hr />
