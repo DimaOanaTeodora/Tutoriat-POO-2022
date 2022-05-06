@@ -7,7 +7,8 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 :triangular_flag_on_post: Generator online de exercitii tip examen -> [aici](https://problemeoop.herokuapp.com/?fbclid=IwAR3MFg2C2s-IIIOJaWW3KbV9uHIQ6BmhFx-k7OS1mCYnSpYdG9Zto7Tld-w)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/61749814/155836441-58878439-f0f7-4e06-958f-e77d265a3e80.jpg" width="350" height="400" />
+<img src="https://user-images.githubusercontent.com/61749814/155836441-58878439-f0f7-4e06-958f-e77d265a3e80.jpg" width="270" height="300" />
+<img src="https://user-images.githubusercontent.com/61749814/167103217-8cfb05eb-c8bd-4edc-90db-6ae2a1fb50d7.png" width="270" height="300" />
 </p>
 
 ### :warning: Materiale
