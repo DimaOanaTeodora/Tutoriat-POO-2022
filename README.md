@@ -2,7 +2,7 @@
 Tutoriat de POO pentru studenții de anul I ai FMI UB 
 
 
-:triangular_flag_on_post: [Ne vedem pe Teams](https://teams.microsoft.com/l/channel/19%3a22Ok1VmJIxmzNeqzA64FfRKxWmWkKUnGh7NVZjTIPy81%40thread.tacv2/General?groupId=dabce7fe-8583-42af-b340-da55293f8769&tenantId=08a1a72f-fecd-4dae-8cec-471a2fb7c2f1)
+:triangular_flag_on_post: [Ne vedem in fiecare Vineri, de la ora 10.00, pe Teams](https://teams.microsoft.com/l/channel/19%3a22Ok1VmJIxmzNeqzA64FfRKxWmWkKUnGh7NVZjTIPy81%40thread.tacv2/General?groupId=dabce7fe-8583-42af-b340-da55293f8769&tenantId=08a1a72f-fecd-4dae-8cec-471a2fb7c2f1)
 
 :triangular_flag_on_post: Generator online de exercitii tip examen -> [aici](https://problemeoop.herokuapp.com/?fbclid=IwAR3MFg2C2s-IIIOJaWW3KbV9uHIQ6BmhFx-k7OS1mCYnSpYdG9Zto7Tld-w)
 
