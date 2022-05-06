@@ -21,6 +21,9 @@
 - [Virtual, diamant si downcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Virtual%2C%20diamant%20si%20downcasting.pdf)
 
 ### Tutoriat 6
+- nu s-a tinut
+
+### Tutoriat 7
 
 - [Polimorfism](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Polimorfism.pdf)
 - [Abstractizare](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Abstractizare.pdf)
