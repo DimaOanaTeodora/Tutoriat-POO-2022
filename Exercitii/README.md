@@ -20,3 +20,10 @@
 ### Tutoriat 5
 
 - [virtual, diamant si downcasting](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T5.md)
+
+### Tutoriat 6
+
+- nu s-a tinut
+
+### Tutoriat 7
+- [polimorfism si abstractizare](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exercitii/T7.md)
