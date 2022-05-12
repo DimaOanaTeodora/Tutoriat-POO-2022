@@ -39,6 +39,8 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_orange_diamond: [Singleton](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Singleton.pdf)
 
+:large_orange_diamond: [Breviar examen - NU copiute](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Cheat%20sheet.pdf)
+
 ### :heavy_check_mark: Exerciții rezolvate
 
 <hr />
