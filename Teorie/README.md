@@ -33,3 +33,4 @@
 ### Tutoriat 8
 
 - [Breviar examen - NU copiute](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Cheat%20sheet.pdf)
+- [Exemple de subiecte de teorie examen rezolvate](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/TEORIE%20POO%202017.pdf)
