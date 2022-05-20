@@ -19,6 +19,8 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :beginner: [Schemă de rezolvare colocviu sesiunea mai 2021](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exemple/Schema%20mai%202021.png)
 
+:beginner: [Rezolvare completă colocviu mai 2021](https://github.com/dariabroscoteanu/OOP/tree/main/Lab%20Exams/Colocviu2021)
+
 :beginner: [Exemplu meniu pentru colocviu]()
 
 # :peacock: Baftă la colocviu! :peacock:
