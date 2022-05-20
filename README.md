@@ -11,6 +11,12 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 <img src="https://user-images.githubusercontent.com/61749814/167103217-8cfb05eb-c8bd-4edc-90db-6ae2a1fb50d7.png" width="270" height="300" />
 </p>
 
+### :warning: Despre colocviu (Tutoriat 20 mai 2022)
+
+<hr />
+
+:large_orange_diamond:
+
 ### :warning: Materiale
 
 <hr />
