@@ -19,7 +19,7 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :beginner: [Schema de rezolvare colocviu sesiunea mai 2020]()
 
-:beginner: [Exemplu meniu pentru colocviu sesiunea mai 2020]()
+:beginner: [Exemplu meniu pentru colocviu]()
 
 # :peacock: Bafta la colocviu! :peacock:
 
