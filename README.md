@@ -21,7 +21,7 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :beginner: [Rezolvare completă colocviu mai 2021](https://github.com/dariabroscoteanu/OOP/tree/main/Lab%20Exams/Colocviu2021)
 
-:beginner: [Exemplu meniu pentru colocviu]()
+:beginner: [Exemplu meniu Singleton pentru colocviu](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/tree/main/Exemple/Meniu%20Singleton)
 
 # :peacock: Baftă la colocviu! :peacock:
 
