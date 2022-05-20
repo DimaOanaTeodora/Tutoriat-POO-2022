@@ -17,7 +17,7 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :beginner: [Cerinta coloviu sesiunea mai 2020]()
 
-:beginner: [Schema de rezolvare coloviu sesiunea mai 2020]()
+:beginner: [Schema de rezolvare colocviu sesiunea mai 2020]()
 
 :beginner: [Exemplu meniu pentru colocviu sesiunea mai 2020]()
 
