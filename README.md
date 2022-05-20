@@ -14,8 +14,13 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 ### :warning: Despre colocviu (Tutoriat 20 mai 2022)
 
 <hr />
+:beginner: [Cerinta coloviu sesiunea mai 2020]()
 
-:large_orange_diamond:
+:beginner: [Schema de rezolvare coloviu sesiunea mai 2020]()
+
+:beginner: [Exemplu meniu pentru colocviu sesiunea mai 2020]()
+
+# :peacock: Bafta la colocviu! :peacock:
 
 ### :warning: Materiale
 
