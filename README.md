@@ -15,13 +15,13 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 <hr />
 
-:beginner: [Cerinta coloviu sesiunea mai 2020]()
+:beginner: [Cerință colocviu sesiunea mai 2021](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exemple/Colocviu_POO_2021_29Mai.pdf)
 
-:beginner: [Schema de rezolvare colocviu sesiunea mai 2020]()
+:beginner: [Schemă de rezolvare colocviu sesiunea mai 2021](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Exemple/Schema%20mai%202021.png)
 
 :beginner: [Exemplu meniu pentru colocviu]()
 
-# :peacock: Bafta la colocviu! :peacock:
+# :peacock: Baftă la colocviu! :peacock:
 
 ### :warning: Materiale
 
