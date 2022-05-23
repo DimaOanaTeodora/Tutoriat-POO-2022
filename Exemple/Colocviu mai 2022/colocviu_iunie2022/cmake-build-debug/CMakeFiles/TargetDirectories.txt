@@ -1,3 +1,0 @@
-C:/Users/Oana/Desktop/colocviu_iunie2022/cmake-build-debug/CMakeFiles/colocviu_iunie2022.dir
-C:/Users/Oana/Desktop/colocviu_iunie2022/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Oana/Desktop/colocviu_iunie2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
