@@ -53,11 +53,12 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :large_orange_diamond: [Singleton](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Singleton.pdf)
 
+:large_orange_diamond: [Typeid](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Typeid.md)
+
 :warning: [Breviar examen - NU copiute](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Cheat%20sheet.pdf)
 
 :warning: [Exemple de subiecte de teorie examen rezolvate](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/TEORIE%20POO%202017.pdf)
 
-:warning: [Typeid](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Typeid.md)
 
 ### :heavy_check_mark: Exerciții rezolvate
 
