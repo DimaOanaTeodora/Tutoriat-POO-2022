@@ -57,6 +57,8 @@ Tutoriat de POO pentru studenții de anul I ai FMI UB
 
 :warning: [Exemple de subiecte de teorie examen rezolvate](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/TEORIE%20POO%202017.pdf)
 
+:warning: [Typeid](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022/blob/main/Teorie/Typeid.md)
+
 ### :heavy_check_mark: Exerciții rezolvate
 
 <hr />
