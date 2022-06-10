@@ -47,13 +47,15 @@ int main() {
     B ob;
     A* p = &ob;
     A& r = ob;
-    cout << "pointer: " << typeid(*p).name() << endl;
+    cout << "pointer: " << typeid(p).name() << endl;
+    cout << "deferntiere pointer: " << typeid(*p).name() << endl;
     cout << "referinta: " << typeid(r).name() << endl;
 }
 ```
 
 Afiseaza - tipul la runtime:
 ```
+pointer: P1A
 pointer: 1B
 referinta: 1B
 ```
@@ -67,14 +69,16 @@ int main() {
     B ob;
     A* p = &ob;
     A& r = ob;
-    cout << "pointer: " << typeid(*p).name() << endl;
+    cout << "pointer: " << typeid(p).name() << endl;
+    cout << "deferntiere pointer: " << typeid(*p).name() << endl;
     cout << "referinta: " << typeid(r).name() << endl;
 }
 ```
 
 Afiseaza - tipul declarat:
 ```
-pointer: 1A
+pointer: P1A
+deferintiere pointer: 1A
 referinta: 1A
 ```
 
